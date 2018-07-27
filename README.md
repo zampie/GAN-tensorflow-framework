@@ -2,6 +2,7 @@
 
 See README_original.md for more infofmation
 
+<<<<<<< HEAD
 
 teST
 
