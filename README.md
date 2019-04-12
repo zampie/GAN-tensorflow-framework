@@ -10,5 +10,5 @@ https://github.com/LynnHo/DCGAN-LSGAN-WGAN-GP-DRAGAN-Tensorflow-2/tree/v1
 
 See README_original.md for more infofmation
 
-p.s. Now the original project alreay updated to Tensorflow 2.
+p.s. Now the original project alreay updated to Tensorflow 2
 
