@@ -1,6 +1,6 @@
 You need:
 
-Python 3
+Python 3.6
 
 Tensorflow 1.8 or upper
 
