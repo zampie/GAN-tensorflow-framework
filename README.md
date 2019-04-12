@@ -1,6 +1,9 @@
 You need:
+
 Python3
+
 Tensorflow 1.8 or upper
+
 *This is a simple python3 update of:
 
 https://github.com/LynnHo/DCGAN-LSGAN-WGAN-GP-DRAGAN-Tensorflow-2/tree/v1
